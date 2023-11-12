@@ -1,1 +1,1 @@
-A content based movie recommender system using cosine similarity
+The Movie Recommender System Project is a smart application that suggests personalized movie recommendations based on user preferences. Using advanced algorithms, it analyzes viewing history and ratings to provide tailored suggestions, enhancing the user's movie-watching experience.

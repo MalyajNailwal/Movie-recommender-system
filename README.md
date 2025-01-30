@@ -2,7 +2,7 @@
 
 This project implements a Movie Recommender System designed to suggest films to users based on their preferences and viewing history. Utilizing collaborative filtering and content-based filtering techniques, this system aims to enhance user experience by providing personalized movie recommendations.
 
-## Table of Contents
+## Table of Content's
 
 - [Features](#features)
 - [Getting Started](#getting-started)
